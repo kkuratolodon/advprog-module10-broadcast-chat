@@ -18,3 +18,9 @@ Jika Port Berbeda:
 ![alt text](image-2.png)
 
 Terlihat dari gambar di atas, jika port dari server dan client berbeda maka akan ada error.
+
+## 2.3. Small changes. Add some information to client
+
+![alt text](image-5.png)
+
+Saya memastikan bahwa setiap kali server mengirim pesan melalui siaran, setiap klien dapat mengidentifikasi pengirimnya. Tujuannya adalah agar pengguna dapat mengetahui siapa yang mengirim pesan yang mereka baca. Selain itu, saya juga menyertakan informasi tentang alamat IP dan port pada setiap klien agar mereka dapat mengenali identitas mereka sendiri.
